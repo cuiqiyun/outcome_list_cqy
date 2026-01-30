@@ -52,14 +52,18 @@
 
 
 ## 附件1
-(https://github.com/cuiqiyun/outcome_list_cqy/blob/main/LicheePi_4A/picture/qemu_error_1.png)
+<img width="692" height="120" alt="image" src="https://github.com/user-attachments/assets/6123c1b5-a991-4819-822d-e1cd0c0058c0" />
 
 
 
-(https://github.com/cuiqiyun/outcome_list_cqy/blob/main/LicheePi_4A/picture/qemu_error_2.png)
+
+<img width="692" height="496" alt="image" src="https://github.com/user-attachments/assets/f56d2b25-921b-4a53-84d2-66b7f3b7b512" />
+
 
 ## 附件2
 
-https://github.com/cuiqiyun/outcome_list_cqy/blob/main/LicheePi_4A/picture/wget_error_1.png
+<img width="693" height="380" alt="image" src="https://github.com/user-attachments/assets/6d6dd31b-81b5-46e7-b289-45d698662a6e" />
+
+
 
 
