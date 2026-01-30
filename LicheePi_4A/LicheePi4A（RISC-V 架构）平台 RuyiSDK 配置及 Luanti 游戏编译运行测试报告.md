@@ -52,14 +52,14 @@
 
 
 ## 附件1
-
-![image-20260119125427748](C:\Users\DELL\Desktop\P118实习\图片\image-20260119125427748.png)
-
+(https://github.com/cuiqiyun/outcome_list_cqy/blob/main/LicheePi_4A/picture/qemu_error_1.png)
 
 
-![image-20260119125453533](C:\Users\DELL\Desktop\P118实习\图片\image-20260119125453533.png)
+
+(https://github.com/cuiqiyun/outcome_list_cqy/blob/main/LicheePi_4A/picture/qemu_error_2.png)
 
 ## 附件2
 
-![image-20260119125523269](C:\Users\DELL\Desktop\P118实习\图片\image-20260119125523269.png)
+https://github.com/cuiqiyun/outcome_list_cqy/blob/main/LicheePi_4A/picture/wget_error_1.png
+
 
